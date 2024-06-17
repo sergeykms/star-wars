@@ -1,6 +1,8 @@
 <?php
 
+echo "Test";
 phpinfo();
+
 
 //
 //<!DOCTYPE html>
